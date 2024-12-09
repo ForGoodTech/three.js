@@ -1,0 +1,1599 @@
+[
+    {
+        "text": "textures",
+        "children": [
+            {
+                "text": "3d",
+                "children": [
+                    {
+                        "text": "head256x256x109.zip",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Readme.txt",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "carbon",
+                "children": [
+                    {
+                        "text": "Carbon.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Carbon_Normal.png",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "compressed",
+                "children": [
+                    {
+                        "text": "2d_astc_6x6.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_etc1s.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba16_linear.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba32_linear.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba8.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba8_displayp3.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba8_linear.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_uastc.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_2bpp_rgb.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_4bpp_rgb.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_4bpp_rgb_mips.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_4bpp_rgb_v3.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_argb_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_argb_nomip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_ASTC4x4.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_BC1.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dx10_bc6h_signed_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dx10_bc6h_signed_nomip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dx10_bc6h_unsigned_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dx10_bc6h_unsigned_nomip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dxt1_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_dxt1_nomip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_ETC1.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disturb_PVR2bpp.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "explosion_dxt5_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "flare_2bpp_rgba.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "flare_4bpp_rgba.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "hepatica_dxt3_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare_ASTC8x8.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare_BC3.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare_PVR4bpp 2.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare_PVR4bpp.ktx",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Mountains.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Mountains_argb_mip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Mountains_argb_nomip.dds",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "park3_cube_mip_2bpp_rgb_v3.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "park3_cube_nomip_4bpp_rgb.pvr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "sample_etc1s.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "sample_uastc.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "sample_uastc_zstd.ktx2",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "cube",
+                "children": [
+                    {
+                        "text": "angus",
+                        "children": [
+                            {
+                                "text": "cube_m00_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m00_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m00_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m00_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m00_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m00_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m01_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m02_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m03_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m04_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m05_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m06_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m07_c05.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c00.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c01.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c02.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c03.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c04.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "cube_m08_c05.jpg",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Bridge2",
+                        "children": [
+                            {
+                                "text": "negx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "negy.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "negz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posy.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "readme.txt",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "MilkyWay",
+                        "children": [
+                            {
+                                "text": "dark-s_nx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "dark-s_ny.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "dark-s_nz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "dark-s_px.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "dark-s_py.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "dark-s_pz.jpg",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Park2",
+                        "children": [
+                            {
+                                "text": "negx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "negy.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "negz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posy.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "posz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "readme.txt",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "Park3Med",
+                        "children": [
+                            {
+                                "text": "nx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "readme.txt",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "pisa",
+                        "children": [
+                            {
+                                "text": "nx.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.png",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "pisaHDR",
+                        "children": [
+                            {
+                                "text": "nx.hdr",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.hdr",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.hdr",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.hdr",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.hdr",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.hdr",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "pisaRGBM16",
+                        "children": [
+                            {
+                                "text": "nx.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.png",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "skyboxsun25deg",
+                        "children": [
+                            {
+                                "text": "nx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "skyboxsun25degtest.txt",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "SwedishRoyalCastle",
+                        "children": [
+                            {
+                                "text": "nx.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "ny.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "nz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "px.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "py.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "pz.jpg",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "readme.txt",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "sun_temple_stripe.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "sun_temple_stripe_stereo.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "decal",
+                "children": [
+                    {
+                        "text": "decal-diffuse.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "decal-normal.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "LICENSE.TXT",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "equirectangular",
+                "children": [
+                    {
+                        "text": "blouberg_sunrise_2_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "moonless_golf_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "pedestrian_overpass_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "quarry_01_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "royal_esplanade_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "san_giuseppe_bridge_2k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spot1Lux.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "venice_sunset_1k.hdr",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "floors",
+                "children": [
+                    {
+                        "text": "FloorsCheckerboard_S_Diffuse.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "FloorsCheckerboard_S_Normal.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "gainmap",
+                "children": [
+                    {
+                        "text": "spruit_sunrise_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_4k-gainmap.webp",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_4k.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_4k.json",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_4k.webp",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "gradientMaps",
+                "children": [
+                    {
+                        "text": "fiveTone.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "threeTone.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "lava",
+                "children": [
+                    {
+                        "text": "cloud.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lavatile.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "lensflare",
+                "children": [
+                    {
+                        "text": "hexangle.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare0.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare0_alpha.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare1.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare2.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lensflare3.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "LICENSE.txt",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "lottie",
+                "children": [
+                    {
+                        "text": "24017-lottie-logo-animation.json",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "matcaps",
+                "children": [
+                    {
+                        "text": "040full.exr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "040full.txt",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "matcap-porcelain-white.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "matcap-porcelain-white.txt",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "minecraft",
+                "children": [
+                    {
+                        "text": "atlas.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "dirt.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "grass.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "grass_dirt.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "painterlypack.txt",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "opengameart",
+                "children": [
+                    {
+                        "text": "smoke1.png",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "pbr",
+                "children": [
+                    {
+                        "text": "Scratched_gold",
+                        "children": [
+                            {
+                                "text": "Scratched_gold.txt",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "Scratched_gold_01_1K_AO.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "Scratched_gold_01_1K_Base_Color.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "Scratched_gold_01_1K_Height.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "Scratched_gold_01_1K_Normal.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "Scratched_gold_01_1K_Roughness.png",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "text": "planets",
+                "children": [
+                    {
+                        "text": "earth_atmos_2048.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_atmos_4096.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_clouds_1024.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_clouds_2048.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_lights_2048.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_normal_2048.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_specular_2048.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "moon_1024.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "solar",
+                "children": [
+                    {
+                        "text": "earth.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "mars.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "mercury.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "milky_way.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Readme.txt",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "sun.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "venus.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "sprites",
+                "children": [
+                    {
+                        "text": "ball.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "circle.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "disc.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "firetorch_1.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake1.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake2.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake3.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake4.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake5.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "snowflake7_alpha.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spark1.png",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "terrain",
+                "children": [
+                    {
+                        "text": "grasslight-big-nm.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "grasslight-big.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "readme.txt",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "tiff",
+                "children": [
+                    {
+                        "text": "crate_jpeg.tif",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "crate_lzw.tif",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "crate_uncompressed.tif",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "tiltbrush",
+                "children": [
+                    {
+                        "text": "Light.webp",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "transition",
+                "children": [
+                    {
+                        "text": "transition1.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "transition2.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "transition3.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "transition4.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "transition5.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "transition6.png",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "water",
+                "children": [
+                    {
+                        "text": "Water_1_M_Flow.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Water_1_M_Normal.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Water_2_M_Normal.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "wide_gamut",
+                "children": [
+                    {
+                        "text": "logo_p3.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "logo_srgb.png",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
+                "text": "2294472375_24a3b8ef46_o.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "758px-Canestra_di_frutta_(Caravaggio).jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "alphaMap.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "artistic_floral.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "artistic_floral_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "background.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "brick_800.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "brick_bump.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "brick_diffuse.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "brick_roughness.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "checker.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "cm_gray.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "cm_viridis.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "colors.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "crate.gif",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "crate_color8.tga",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "crate_grey8.tga",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "disturb.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "elegance_in_simplicity.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "elegance_in_simplicity_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "envmap.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "equirectangular.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "ethereal_fusion.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "ethereal_fusion_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "ethereal_petals.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "ethereal_petals_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "floral_harmony.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "floral_harmony_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "golfball.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "grid.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "hardwood2_bump.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "hardwood2_diffuse.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "hardwood2_roughness.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "kandao3.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "kandao3_depthmap.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "kinect.mp4",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "kinect.nfo",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "kinect.webm",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "land_ocean_ice_cloud_2048.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals1.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals10.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals10_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals1_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals2.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals2_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals3.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals3_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals4.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals4_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals5.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals5_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals6.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals6_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals7.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals7_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals8.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals8_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals9.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals9_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "lively_petals_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "MaryOculus.mp4",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "MaryOculus.webm",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "MaryOculus.webm.nfo",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "memorial.exr",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "memorial.hdr",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "memorial.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "memorial.tif",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "morning_dew.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "morning_dew_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "pano.mp4",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "pano.webm",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "piz_compressed.exr",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "roughness_map.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "seamless_serenity.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "seamless_serenity_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sintel.mp4",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sintel.ogv",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "snellen.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "spiritedaway.ktx2",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite0.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite0.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite1.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite1.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "sprite2.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "square-outline-textured.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "square-outline.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "tranquil_blossoms.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "tranquil_blossoms_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "tri_pattern.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "uncompressed.exr",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "uv_grid_directx.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "uv_grid_opengl.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "vivid_blossoms.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "vivid_blossoms_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "WalkingManSpriteSheet.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "water.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "waterdudv.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "waternormals.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "whispering_florals.png",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "whispering_florals_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "white_jade.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "white_marble.webp",
+                "icon": "jstree-file"
+            }
+        ]
+    }
+]

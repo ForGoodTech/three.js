@@ -1,0 +1,55 @@
+/* Basic styles for the main web app */
+.app {
+    padding: 20px;
+}
+
+/* Styles for the floating window */
+.floating-window {
+    position: fixed;
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    border: 2px solid black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    z-index: 9999; /* Highest z-index for the floating window */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none; /* Hidden by default */
+    overflow: hidden;
+    resize: both;
+}
+
+/* Header for the floating window */
+.header {
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-bottom: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    cursor: move; /* Cursor indicating it's draggable */
+}
+
+/* Close button style */
+.close-button {
+    cursor: pointer;
+    font-size: 18px;
+    color: red;
+}
+
+/* Floating window content */
+.content {
+    padding: 10px;
+}
+
+/* Resize handle */
+.resize-handle {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    bottom: 0;
+    right: 0;
+    cursor: se-resize;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+}
