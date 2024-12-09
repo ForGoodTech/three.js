@@ -1,0 +1,3 @@
+[submodule "editor/ext"]
+	path = editor/ext
+	url = https://github.com/ForGoodTech/three.js.ext
