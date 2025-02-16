@@ -21,3 +21,5 @@ test/e2e/output-screenshots
 
 **/node_modules
 **/docs_new
+
+editor/MathJax-4.0.0-beta.7

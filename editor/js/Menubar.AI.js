@@ -1,18 +1,20 @@
 import { UIPanel } from './libs/ui.js';
 
+let ai_window;
 function start_ai_window()
 {
     const url = '../editor/ext/ai/this_ai.html'; // URL of the web app
-    const newWindow = window.open(
+    ai_window = window.open(
         url,
         '_blank',
-        'width=1024,height=800,left=480,top=100'
+        'width=1280,height=800,left=100,top=100'
     );
 
-    if (newWindow) 
+    if (ai_window) 
     {
+        window.ai_window = ai_window;
         // Optional: Set up a function to be called when the new window is ready
-        newWindow.onload = function() {
+        ai_window.onload = function() {
             // This code will run once the new window has fully loaded
             // Example: You can directly access the new window's DOM or JavaScript functions
         };

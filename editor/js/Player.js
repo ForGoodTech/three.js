@@ -42,7 +42,6 @@ function Player( editor ) {
 		container.setDisplay( 'none' );
 
 		player.stop();
-		player.dispose();
 
 	} );
 
