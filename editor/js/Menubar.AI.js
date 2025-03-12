@@ -3,7 +3,7 @@ import { UIPanel } from './libs/ui.js';
 let ai_window;
 function start_ai_window()
 {
-    const url = '../editor/ext/ai/this_ai.php'; // URL of the web app
+    const url = '../editor/ext/ai/ai.php'; // URL of the web app
     ai_window = window.open(
         url,
         '_blank',
