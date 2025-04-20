@@ -59,7 +59,7 @@
 		<script src="js/libs/signals.min.js"></script>
 
 		<script type="module">
-            import './ext/ai_interface.js';
+            import './ext/__ai_interface.js';
 
 			import * as THREE from 'three';
 

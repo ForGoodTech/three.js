@@ -3,7 +3,10 @@ import { UIPanel } from './libs/ui.js';
 let ai_window;
 function start_ai_window()
 {
-    const url = '../editor/ext/ai/ai.php'; // URL of the web app
+    const url = (window.location.origin.toLowerCase() === 'https://gpt.surestinfo.com')
+        ? '../editor/ext/ai/__index.php'
+        : '../editor/ext/ai/index_dev.html';
+    
     ai_window = window.open(
         url,
         '_blank',
