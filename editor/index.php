@@ -59,8 +59,14 @@
 		<script src="js/libs/signals.min.js"></script>
 
 		<script type="module">
-            import './ext/__ai_interface.js';
-
+            <?php
+                $host = $_SERVER['HTTP_HOST'];
+                if ($host === 'gpt.surestinfo.com') {
+                    echo "import './ext/__ai_interface.js';";
+                } else {
+                    echo "import './ext/ai_interface.js';";
+                }
+            ?>
 			import * as THREE from 'three';
 
 			import { Editor } from './js/Editor.js';
