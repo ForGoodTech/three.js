@@ -16,6 +16,31 @@
                 ]
             },
             {
+                "text": "ambientcg",
+                "children": [
+                    {
+                        "text": "Ice002_1K-JPG_Color.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Ice002_1K-JPG_Displacement.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Ice002_1K-JPG_NormalGL.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Ice002_1K-JPG_Roughness.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "Ice003_1K-JPG_Color.jpg",
+                        "icon": "jstree-file"
+                    }
+                ]
+            },
+            {
                 "text": "carbon",
                 "children": [
                     {
@@ -41,6 +66,10 @@
                     },
                     {
                         "text": "2d_rgba16_linear.ktx2",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "2d_rgba16_uastc_hdr_linear.ktx2",
                         "icon": "jstree-file"
                     },
                     {
@@ -149,10 +178,6 @@
                     },
                     {
                         "text": "lensflare_BC3.ktx",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "lensflare_PVR4bpp 2.ktx",
                         "icon": "jstree-file"
                     },
                     {
@@ -633,39 +658,6 @@
                         ]
                     },
                     {
-                        "text": "skyboxsun25deg",
-                        "children": [
-                            {
-                                "text": "nx.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "ny.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "nz.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "px.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "py.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "pz.jpg",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "skyboxsun25degtest.txt",
-                                "icon": "jstree-file"
-                            }
-                        ]
-                    },
-                    {
                         "text": "SwedishRoyalCastle",
                         "children": [
                             {
@@ -733,6 +725,14 @@
                         "icon": "jstree-file"
                     },
                     {
+                        "text": "ice_planet_close.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "lobe.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
                         "text": "moonless_golf_1k.hdr",
                         "icon": "jstree-file"
                     },
@@ -757,6 +757,18 @@
                         "icon": "jstree-file"
                     },
                     {
+                        "text": "spruit_sunrise_1k.hdr",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_2k.hdr.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "spruit_sunrise_4k.hdr.jpg",
+                        "icon": "jstree-file"
+                    },
+                    {
                         "text": "venice_sunset_1k.hdr",
                         "icon": "jstree-file"
                     }
@@ -771,31 +783,6 @@
                     },
                     {
                         "text": "FloorsCheckerboard_S_Normal.jpg",
-                        "icon": "jstree-file"
-                    }
-                ]
-            },
-            {
-                "text": "gainmap",
-                "children": [
-                    {
-                        "text": "spruit_sunrise_1k.hdr",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "spruit_sunrise_4k-gainmap.webp",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "spruit_sunrise_4k.jpg",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "spruit_sunrise_4k.json",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "spruit_sunrise_4k.webp",
                         "icon": "jstree-file"
                     }
                 ]
@@ -829,10 +816,6 @@
             {
                 "text": "lensflare",
                 "children": [
-                    {
-                        "text": "hexangle.png",
-                        "icon": "jstree-file"
-                    },
                     {
                         "text": "lensflare0.png",
                         "icon": "jstree-file"
@@ -915,8 +898,39 @@
                 ]
             },
             {
+                "text": "noises",
+                "children": [
+                    {
+                        "text": "perlin",
+                        "children": [
+                            {
+                                "text": "128x128.png",
+                                "icon": "jstree-file"
+                            },
+                            {
+                                "text": "rgb-256x256.png",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    },
+                    {
+                        "text": "voronoi",
+                        "children": [
+                            {
+                                "text": "grayscale-256x256.png",
+                                "icon": "jstree-file"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
                 "text": "opengameart",
                 "children": [
+                    {
+                        "text": "Caustic_Free.jpg",
+                        "icon": "jstree-file"
+                    },
                     {
                         "text": "smoke1.png",
                         "icon": "jstree-file"
@@ -934,23 +948,7 @@
                                 "icon": "jstree-file"
                             },
                             {
-                                "text": "Scratched_gold_01_1K_AO.png",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "Scratched_gold_01_1K_Base_Color.png",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "Scratched_gold_01_1K_Height.png",
-                                "icon": "jstree-file"
-                            },
-                            {
                                 "text": "Scratched_gold_01_1K_Normal.png",
-                                "icon": "jstree-file"
-                            },
-                            {
-                                "text": "Scratched_gold_01_1K_Roughness.png",
                                 "icon": "jstree-file"
                             }
                         ]
@@ -965,7 +963,7 @@
                         "icon": "jstree-file"
                     },
                     {
-                        "text": "earth_atmos_4096.jpg",
+                        "text": "earth_bump_roughness_clouds_4096.jpg",
                         "icon": "jstree-file"
                     },
                     {
@@ -973,11 +971,15 @@
                         "icon": "jstree-file"
                     },
                     {
-                        "text": "earth_clouds_2048.png",
+                        "text": "earth_day_4096.jpg",
                         "icon": "jstree-file"
                     },
                     {
                         "text": "earth_lights_2048.png",
+                        "icon": "jstree-file"
+                    },
+                    {
+                        "text": "earth_night_4096.jpg",
                         "icon": "jstree-file"
                     },
                     {
@@ -1035,15 +1037,15 @@
                         "icon": "jstree-file"
                     },
                     {
+                        "text": "blossom.png",
+                        "icon": "jstree-file"
+                    },
+                    {
                         "text": "circle.png",
                         "icon": "jstree-file"
                     },
                     {
                         "text": "disc.png",
-                        "icon": "jstree-file"
-                    },
-                    {
-                        "text": "firetorch_1.jpg",
                         "icon": "jstree-file"
                     },
                     {
@@ -1080,10 +1082,6 @@
                 "text": "terrain",
                 "children": [
                     {
-                        "text": "grasslight-big-nm.jpg",
-                        "icon": "jstree-file"
-                    },
-                    {
                         "text": "grasslight-big.jpg",
                         "icon": "jstree-file"
                     },
@@ -1106,15 +1104,6 @@
                     },
                     {
                         "text": "crate_uncompressed.tif",
-                        "icon": "jstree-file"
-                    }
-                ]
-            },
-            {
-                "text": "tiltbrush",
-                "children": [
-                    {
-                        "text": "Light.webp",
                         "icon": "jstree-file"
                     }
                 ]
@@ -1219,6 +1208,10 @@
                 "icon": "jstree-file"
             },
             {
+                "text": "cesiumion.png",
+                "icon": "jstree-file"
+            },
+            {
                 "text": "checker.png",
                 "icon": "jstree-file"
             },
@@ -1251,15 +1244,15 @@
                 "icon": "jstree-file"
             },
             {
+                "text": "edge3.jpg",
+                "icon": "jstree-file"
+            },
+            {
                 "text": "elegance_in_simplicity.png",
                 "icon": "jstree-file"
             },
             {
                 "text": "elegance_in_simplicity_480.jpg",
-                "icon": "jstree-file"
-            },
-            {
-                "text": "envmap.png",
                 "icon": "jstree-file"
             },
             {
@@ -1295,6 +1288,10 @@
                 "icon": "jstree-file"
             },
             {
+                "text": "google_on_non_white_hdpi.png",
+                "icon": "jstree-file"
+            },
+            {
                 "text": "grid.png",
                 "icon": "jstree-file"
             },
@@ -1308,6 +1305,10 @@
             },
             {
                 "text": "hardwood2_roughness.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "jade.jpg",
                 "icon": "jstree-file"
             },
             {
@@ -1447,15 +1448,15 @@
                 "icon": "jstree-file"
             },
             {
-                "text": "memorial.tif",
-                "icon": "jstree-file"
-            },
-            {
                 "text": "morning_dew.png",
                 "icon": "jstree-file"
             },
             {
                 "text": "morning_dew_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "noise.png",
                 "icon": "jstree-file"
             },
             {
@@ -1480,6 +1481,10 @@
             },
             {
                 "text": "seamless_serenity_480.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "shaderball_ds.jpg",
                 "icon": "jstree-file"
             },
             {
@@ -1527,10 +1532,6 @@
                 "icon": "jstree-file"
             },
             {
-                "text": "square-outline.png",
-                "icon": "jstree-file"
-            },
-            {
                 "text": "tranquil_blossoms.png",
                 "icon": "jstree-file"
             },
@@ -1540,10 +1541,6 @@
             },
             {
                 "text": "tri_pattern.jpg",
-                "icon": "jstree-file"
-            },
-            {
-                "text": "uncompressed.exr",
                 "icon": "jstree-file"
             },
             {
@@ -1563,10 +1560,6 @@
                 "icon": "jstree-file"
             },
             {
-                "text": "WalkingManSpriteSheet.png",
-                "icon": "jstree-file"
-            },
-            {
                 "text": "water.jpg",
                 "icon": "jstree-file"
             },
@@ -1576,6 +1569,10 @@
             },
             {
                 "text": "waternormals.jpg",
+                "icon": "jstree-file"
+            },
+            {
+                "text": "wave_normals_24bit_uncompressed.dds",
                 "icon": "jstree-file"
             },
             {
