@@ -74,6 +74,10 @@
             min-width: 150px;
         }
 
+        .hidden {
+            display: none;
+        }
+        
         footer {
             background: #f0f0f0;
             padding: 10px;
