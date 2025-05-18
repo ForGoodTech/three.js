@@ -25,7 +25,12 @@ $(function() {
                     $('#downloadLink').attr('href', filePath).attr('download', node.text).text('Download File').removeClass('hidden').show();
                 }
             }
+        }).on('ready.jstree', function(e, data) {
+            // Automatically open the root node ("textures") when the tree is ready
+            var rootNode = $('#fileSystemTree').jstree('get_node', '#').children[0];
+            $('#fileSystemTree').jstree('open_node', rootNode);
         });
+        
     });
 
     // Event listener for the "Copy Path" button to copy the file path
