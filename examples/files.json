@@ -533,9 +533,10 @@
 		"misc_exporter_stl",
 		"misc_exporter_usdz",
 		"misc_exporter_exr",
-		"misc_exporter_ktx2",
-		"misc_raycaster_helper"
-	],
+                "misc_exporter_ktx2",
+                "misc_raycaster_helper",
+                "misc_viewhelper"
+        ],
 	"css2d": [
 		"css2d_label"
 	],
